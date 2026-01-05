@@ -83,14 +83,12 @@ The project follows a **modular design**:
 
 ## 🧑‍💻 Author
 
-**Zain-ul-Abdeen**  
-Bachelor of Software Engineering  
+**Zain-ul-Abdeen**   
 
 ---
 
 ## ⚠️ Disclaimer
 
-This project is for **educational purposes only**.  
 It simulates a basic banking environment **without any real-world financial integration**.  
 Always ensure ethical use and responsible data handling.
 
